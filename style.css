@@ -1,0 +1,63 @@
+.container{
+
+    width: 1150px;
+    margin: auto;
+}
+
+.row{
+        display: flex;
+        flex-wrap: wrap;
+}
+
+
+.intro{
+    width: 40%;
+    margin-top: 200px;
+    padding-left: 50px;
+}
+
+.insta_img{
+    width: 150px;
+    margin: auto;
+}
+
+.insta{
+    width: 20%;
+    margin-top: 1cm;
+    text-align: center;
+}
+
+.fb_img{
+    width: 150px;
+    margin: auto;
+}
+
+.fb{
+    width: 20%;
+    margin-top: 1cm;
+    text-align: center;
+}
+
+.twitter_img{
+    width: 150px;
+    margin: auto;
+}
+
+.twitter{
+    width: 20%;
+    margin-left: 44%;
+    text-align: center;
+    margin-top: 2mm;
+}
+
+.whatsapp_img{
+    width: 140px;
+    margin: auto;
+
+}
+
+.whatsapp{
+    width: 20%;
+    text-align: center;
+    
+}
